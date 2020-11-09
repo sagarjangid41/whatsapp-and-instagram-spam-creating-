@@ -4,11 +4,13 @@
 
 <h2> Send messages in looping and create spam 😂 </h2>
 
-<h2><b>Dependence</b>
-1.pip install selenium<br>
+<h1><b>Dependence:</b><br></h1>
+<h2>1.pip install selenium<br>
 
-<b>Download Chrome Driver </b>  <a href="https://chromedriver.chromium.org/downloads "  >CLick!! </a>
+<b>Download Chrome Driver </b>  <a href="https://chromedriver.chromium.org/downloads">CLick!! </a>
   
-change your driver path in the code and <b>Run Code😂</b> </h2>
+change your driver path in the code and <b>Run Code👍</b> </h2>
+
+<h1> Thank you guy's Maybe you like this 😂 </h1>
 
 
