@@ -6,5 +6,6 @@
 
 <h2><b>Dependence</b>
 1.pip install selenium<br>
+  <a href="https://www.w3schools.com/">Visit W3Schools.com!</a>
 
 <h2><b>Download Chrome Driver </b></h2>  <a href="https://chromedriver.chromium.org/downloads "  > </a>
