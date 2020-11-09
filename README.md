@@ -7,4 +7,8 @@
 <h2><b>Dependence</b>
 1.pip install selenium<br>
 
-<h2><b>Download Chrome Driver </b></h2>  <a href="https://chromedriver.chromium.org/downloads "  >CLick!! </a>
+<b>Download Chrome Driver </b>  <a href="https://chromedriver.chromium.org/downloads "  >CLick!! </a>
+  
+change your driver path in the code and <b>Run Code😂</b> </h2>
+
+
