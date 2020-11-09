@@ -1,1 +1,1 @@
-# whatswhatsapp-and-instagram-spam-creating-
+# whatsapp-and-instagram-spam-creating-
